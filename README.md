@@ -1,6 +1,6 @@
 # Agenda funcionando! (interface inicial)
  html/javascript/bootstrap
-https://calculator-react-js-alpha.vercel.app/
+
 link --> https://thalesianmendes.github.io/Agenda-online-basic/
 ## 🚀 Projeto criado pare treinar:
 - ✔️ HTML.
